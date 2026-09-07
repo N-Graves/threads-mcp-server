@@ -1,5 +1,5 @@
 import { z } from "zod";
-import { HttpClient, ToolError, boundedText, httpUrl, pageSize, type ToolDefinition } from "@nasdigital/mcp-server-core";
+import { HttpClient, ToolError, boundedText, httpUrl, pageSize, type ToolDefinition } from "@nasdigitaluk/mcp-server-core";
 
 /**
  * Publishing on Threads is two calls, not one: create a container, then

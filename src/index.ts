@@ -21,7 +21,7 @@
  * produces nothing useful rather than saying why.
  */
 
-import { authorizerFromEnv, requireEnv, runServer, HttpClient } from "@nasdigital/mcp-server-core";
+import { authorizerFromEnv, requireEnv, runServer, HttpClient } from "@nasdigitaluk/mcp-server-core";
 import { buildTools } from "./tools.js";
 
 const VERSION = "1.0.0";
