@@ -7,7 +7,7 @@ MIT licensed.
 ## Install
 
 ```bash
-npm install -g @nasdigital/threads-mcp
+npm install -g @nasdigitaluk/threads-mcp
 ```
 
 ## Configuration
@@ -85,7 +85,7 @@ The smoke test runs with no credentials and no private task board reachable, and
 
 ## Built on
 
-[`@nasdigital/mcp-server-core`](https://github.com/N-Graves/mcp-server-core).
+[`@nasdigitaluk/mcp-server-core`](https://github.com/N-Graves/mcp-server-core).
 
 ## Licence
 
